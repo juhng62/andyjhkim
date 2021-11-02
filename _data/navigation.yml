@@ -14,8 +14,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: About
+  - title: "About"
     children:
     - title: "CV"
       url: /docs/2021-11-02-cv.md
-      
