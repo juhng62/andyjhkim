@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /index.html
   - title: "Category"
-    url: \/categories/
+    url: /categories/
   # - title: "External Link"
   #   url: https://google.com
   # - title: "About"

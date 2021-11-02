@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "CV"
 layout: archive
 permalink: categories/cv
 author_profile: true
