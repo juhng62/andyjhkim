@@ -1,11 +1,11 @@
 ---
-title: "cv"
+title: "Intention Behavior Gap Project"
 layout: archive
-permalink: categories/cv
+permalink: categories/ibgp
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.CV %}
+{% assign posts = site.categories.intention_behavior_gap_project %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
