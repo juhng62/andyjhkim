@@ -1,7 +1,7 @@
 # main links
 main:
-- title: "About"
-  url: /_posts/About/
+  # - title: "About"
+  #  url: /_posts/About/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -12,3 +12,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: About
+    children:
+    - title: "CV"
+      url: /docs/2021-11-02-cv.md
+      
