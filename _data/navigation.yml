@@ -1,9 +1,11 @@
 # main links
 main:
+  # - title: "External Link"
+  #   url: https://google.com
   # - title: "About"
   #  url: /_posts/About/
-  - title: "Quick-Start Guide"
-   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -13,8 +15,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
+posts:
   - title: "About"
     children:
     - title: "CV"
-      url: /docs/2021-11-02-cv.md
+      url: /_posts/about/2021-11-02-cv.md
