@@ -23,6 +23,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "contact" %}
+                        <li><a href="/categories/contact" class="">Contact ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">Toronto Decision Neuroscience Lab</span>
             <ul>
                 {% for category in site.categories %}
