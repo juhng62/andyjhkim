@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: /index.html
-  - title: "Category"
-    url: /categories/
+  # - title: "Home"
+  #   url: /index.html
   # - title: "External Link"
   #   url: https://google.com
   # - title: "About"
