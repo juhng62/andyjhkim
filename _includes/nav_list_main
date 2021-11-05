@@ -38,15 +38,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-      </li>
-      <span class="nav__sub-title">Hobbies</span>
+        <span class="nav__sub-title">Hobbies</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "exercise_inbody" %}
                         <li><a href="/categories/ei" class="">Exercise/InBody ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>
+            </ul>    
       </li>
   </ul>
 </nav>
